@@ -1,8 +1,14 @@
-# SAM-project
+
   
 python project 2021
+
 shubham nagawade
+
 ketan mashalkar
-yash shival 
+
+yash shival
+
 tanishk surwase
+
 ibrez jamadar
+
